@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ConnectSixUIActivity!</string>
+    <string name="app_name">ConnectSixUI</string>
+	<string name="black_win">black win</string>
+	<string name="white_win">white win</string>
+	<string name="restart">Restart</string>
+	<string name="pause">Pause</string>
+	<string name="back">Back</string>
+	<string name="chose_model">please choose the model</string>
+	<string name="ok">OK</string>
+	<string name="wrong_turn">this is machine\'s turn,you can not make move</string>
+	
+	<string name="single_model">Single Model</string>
+	<string name="double_model">Double Model</string>
+	<string name="start">开始</string>
+</resources>

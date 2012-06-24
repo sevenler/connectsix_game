@@ -1,0 +1,22 @@
+<config>
+	<model type="single" title="单人模式" image="fastener" value="1">
+    	<item title="难度" image="grade" id="1" checked="1">
+    	    <redio text="入门" value="1" checked="true"></redio>
+    	    <redio text="困难" value="2"></redio>
+    	</item>
+    	<item title="颜色" image="color_panel" id="2" checked="1">
+    	    <redio text="黑色" value="2" ></redio>
+    	    <redio text="白色" value="1"></redio>
+    	</item>
+	</model>
+	<!-- <model type="double" title="双人模式" image="fastener" value="2">
+	    <item title="难度" image="grade" id="1" checked="1">
+    	    <redio text="入门" value="1" ></redio>
+    	    <redio text="困难" value="2"></redio>
+    	</item>
+    	<item title="颜色" image="color_panel" id="2" checked="1">
+    	    <redio text="黑色" value="2"></redio>
+    	    <redio text="白色" value="1"></redio>
+    	</item>
+	</model>   -->  
+</config>
